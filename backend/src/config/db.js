@@ -28,7 +28,7 @@
 const mongoose = require('mongoose');
 
 // Correct MongoDB URI with "mongodb+srv://"
-const mongoURI = 'mongodb+srv://yogitharayapureddy:sTo0uoyCuid2d1sq@cluster0.zqwzfte.mongodb.net/Cluster0?retryWrites=true&w=majority';
+const mongoURI = 'mongodb+srv://bairagivyshnavi2003:X1kHfjAbUvlWzUgv@cluster0.cao6a.mongodb.net/Cluster0?retryWrites=true&w=majority&appName=Cluster0';
 
 mongoose.connect(mongoURI, {
   useNewUrlParser: true,
